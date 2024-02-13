@@ -4,12 +4,4 @@
   Finding my shits is driving me crazy, so I wrote this script to help me find my items.
   I put the items into lots of boxes pile up like a wall.
   Positions are defined like this:
-   
-   /|\
-    |
-    |
-    |
-    |
-    |
-    * —— ——— ——— ———— ——— ——— 
-  （0,0）
+  ![](/image_1.png)
